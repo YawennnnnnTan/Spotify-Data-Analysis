@@ -1,7 +1,3 @@
-#Install packages
-install.packages("devtools")
-devtools::install_github('charlie86/spotifyr')
-
 #Load packages
 library(spotifyr)
 library(usethis)
