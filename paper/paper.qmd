@@ -2,7 +2,12 @@
 title: "Exploring the Evolution of Energy in Radiohead's Music"
 subtitle: "Energy Levels Fluctuate Post-2000 with Positive Correlations to Valence and Loudness Across Albums"
 author: 
+  - Jianing Li
+  - Xizi Sun
   - Yawen Tan
+  - Shanjie Jiao
+  - Xinqi Yue
+  - Duanyi Su
 thanks: "Code and data are available at: [https://github.com/YawennnnnnTan/Spotify-Data-Analysis/tree/main]"
 date: today
 date-format: long
